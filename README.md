@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Deborahjc
-- 👀 I’m interested in cloud computing
-- 🌱 I’m currently learning python
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me allandeborah66@gmail.com
 <!---
